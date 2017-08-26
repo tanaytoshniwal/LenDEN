@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "638266596668",
+    "firebase_url": "https://lenden-52ca7.firebaseio.com",
+    "project_id": "lenden-52ca7",
+    "storage_bucket": "lenden-52ca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638266596668:android:27c0eac0291170f3",
+        "android_client_info": {
+          "package_name": "com.example.alphabat69.lenden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638266596668-8rdndur5ur1qhng3igg6r4o4mu4kpfsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alphabat69.lenden",
+            "certificate_hash": "658bc23a5aadcb67cf118b0d32628fa12572cb82"
+          }
+        },
+        {
+          "client_id": "638266596668-v7i6ngckgemkj6v6qiphdtv1v113iokc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD38EXi3xaGsn8MNjEJpKxPAlqEsyJSE0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638266596668-v7i6ngckgemkj6v6qiphdtv1v113iokc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
